@@ -6,3 +6,7 @@
 ```
 alert("A new JavaScript framework is about to come.");
 ```
+
+- [x] Github: profile README.md
+- [x] Github: explore github.
+- [ ] Github: communicate using markdown.
